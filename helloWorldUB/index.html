@@ -1,0 +1,35 @@
+<html>
+<head>
+    <script src="clientRequire/lodash/lodash.min.js"></script>
+    <script src="clientRequire/@unitybase/ub-pub/dist/ub-pub.min.js"></script>
+
+    <script>
+     document.addEventListener('DOMContentLoaded', function () {
+       UB.connect({
+         host: window.location.origin,
+         onCredentialRequired: function (conn, isRepeat) {
+           if (isRepeat) {
+             throw new UB.UBAbortError('invalid')
+           } else {
+             return Promise.resolve({authSchema: 'UB', login: 'admin', password: 'admin'})
+           }
+         }
+       }).then(function (conn) {
+         conn.Repository('uba_user').attrs(['ID', 'name', 'uData']).selectAsObject()
+           .then(function (data) {
+             if (data) {
+               data.forEach(user => {
+                 document.getElementById('pText').innerHTML += '<div>' + user.ID + ': ' + user.name + '</br></div>'
+               })
+             }
+           })
+
+       })
+     })
+    </script>
+</head>
+<body>
+    <p>Hello,</p>
+    <p id='pText'></p>
+</body>
+</html>

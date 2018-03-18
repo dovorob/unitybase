@@ -1,0 +1,512 @@
+c:\UnityBase\UB.exe 4.0.0.0 (2018-02-22 17:30:16)Host=DESKTOP-GAR5TAF User=dovorob CPU=4*9-6-10759:FFFBEBBFBFE3BA1D0000000000 OS=23.0=10.0.16299 Wow64=1 Freq=2240995Environment variables=ALLUSERSPROFILE=C:\ProgramData	ANSICON=170x1000 (170x39)	ANSICON_DEF=7	APPDATA=C:\Users\dovorob\AppData\Roaming	CommonProgramFiles=C:\Program Files (x86)\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=DESKTOP-GAR5TAF	ComSpec=C:\WINDOWS\system32\cmd.exe	ConEmuANSI=ON	ConEmuAnsiLog=	ConEmuArgs=	ConEmuArgs2=	ConEmuBackHWND=0x002D0662	ConEmuBaseDir=C:\Program Files\ConEmu\ConEmu	ConEmuBuild=161206	ConEmuConfig=	ConEmuDir=C:\Program Files\ConEmu	ConEmuDrawHWND=0x001D02DC	ConEmuDrive=C:	ConEmuHooks=Enabled	ConEmuHWND=0x000C0556	ConEmuPalette=<ConEmu>	ConEmuPID=8716	ConEmuServerPID=10060	ConEmuTask={Far}	ConEmuWorkDir=C:\Users\dovorob	ConEmuWorkDrive=C:	FARHOME=C:\Program Files\Far Manager	FARLANG=English	FARLOCALPROFILE=C:\Users\dovorob\AppData\Local\Far Manager\Profile	FARPROFILE=C:\Users\dovorob\AppData\Roaming\Far Manager\Profile	FSHARPINSTALLDIR=C:\Program Files (x86)\Microsoft SDKs\F#\4.1\Framework\v4.0\	HOMEDRIVE=C:	HOMEPATH=\Users\dovorob	LOCALAPPDATA=C:\Users\dovorob\AppData\Local	LOGONSERVER=\\DESKTOP-GAR5TAF	MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\dovorob\OneDrive	OS=Windows_NT	Path=C:\Program Files\ConEmu\ConEmu\Scripts;C:\Program Files\ConEmu;C:\Program Files\ConEmu\ConEmu;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;c:\UnityBase;C:\Users\dovorob\AppData\Local\Microsoft\WindowsApps;C:\Users\dovorob\AppData\Roaming\npm	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=x86	PROCESSOR_ARCHITEW6432=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=2a07	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files (x86)	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PROMPT=$P$G	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\PowerShell\Modules\	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\dovorob\AppData\Local\Temp	TMP=C:\Users\dovorob\AppData\Local\Temp	UB_HOME=c:\UnityBase	USERDOMAIN=DESKTOP-GAR5TAF	USERDOMAIN_ROAMINGPROFILE=DESKTOP-GAR5TAF	USERNAME=dovorob	USERPROFILE=C:\Users\dovorob	VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\	windir=C:\WINDOWSTubLog 1.18.3488 FTS3 2018-02-23T09:59:3420180223 09593444  ! warn  WebSocket support are disabled because WSServer.host = '' in config
+20180223 09593445  !  +    ubServer.TubServer(062001E0).008863DB 
+20180223 09593445  !  +    	Init app
+20180223 09593445  ! srvr  		FTS is disabled
+20180223 09593445  ! info  		Check blob store "avatars" folder "C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\avatars\": folder exists
+20180223 09593445  !  -    	00.000.415
+20180223 09593445  !  +    	Folder C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\node_modules\@unitybase\ub\ modified
+20180223 09593445  !  +    		ubCommonClasses.TubThreadSafeCache(04C0CB30).removeStartsWith
+20180223 09593445  !  -    		00.000.008
+20180223 09593445  !  -    	00.000.016
+20180223 09593445  !  +    	Folder C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\ modified
+20180223 09593445  ! debug 		refresh UB_STATIC.staticFoldersModifyDate in globalCache (static directory C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\ changed)
+20180223 09593445  !  +    		ubCommonClasses.TubThreadSafeCache(04C0CB30).removeStartsWith
+20180223 09593445  !  -    		00.000.002
+20180223 09593445  !  -    	00.000.011
+20180223 09593445  !  +    	ubApp.TubApp(04B73EE0).init
+20180223 09593445  ! srvr  		Mime converters are disabled
+20180223 09593445  !  -    	00.000.002
+20180223 09593445  ! srvr  	Enable zip compresison
+20180223 09593445  ! srvr  	Send initialization request to http://localhost:888/init
+20180223 09593445  "  +    InitializationRequest
+20180223 09593445  "  +    	init
+20180223 09593445  " srvr  		Start application intialization...
+20180223 09593445  " info  		Loading domain...
+20180223 09593445  " info  		Loading model "UB" from "C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\node_modules\@unitybase\ub\"
+20180223 09593445  " srvr  		The domain loaded successfully with 0 entities
+20180223 09593445  " debug 		Create new JavaScript Engine for thread 3412
+20180223 09593457  "  +    		008C234A 
+20180223 09593457  " warn  			All API method are allowed for Everyone, because "uba_els" entity not found in domain
+20180223 09593457  " warn  			ELS: rule "ALLOW_ALL_NO_ELS_ENTITY" does not match any method. Ignored
+20180223 09593457  "  -    		00.001.894
+20180223 09593457  " warn  		Method changePassword not found in application but set in allowedAppMethods for user
+20180223 09593457  " auth  		New session admin/84416395 created at 127.0.0.1/-144115177875308535 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180223 09593457  " auth  		New session anonymous/84416394 created at 127.0.0.1/-144115177875308535 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180223 09593457  "  -    	00.212.288
+20180223 09593457  "  -    00.212.304
+20180223 09593457  ! srvr  	ubServer.TubServer(062001E0) {"THttpApiServer(04B3AA80)":{"Cloned":false,"RegisteredUrl":"http://+:888/","HTTPQueueLength":1000,"MaxBandwidth":-1,"MaxConnections":-1,"APIVersion":"HTTP API 2.0","ServerName":"UnityBase","ProcessName":""}} initialized
+20180223 09593457  !  -    00.216.222
+20180223 09593458  "  +    getAppInfo
+20180223 09593458  " http  	127.0.0.1 -> GET getAppInfo
+20180223 09593458  " call  	endpoint getAppInfo
+20180223 09593458  " http  	127.0.0.1 <- 200
+20180223 09593458  "  -    00.000.712
+20180223 09593459  ! info  ubApp.TubApp(04B73EE0) {   "ClientsCurrent": 0,   "ClientsMax": 0,   "Invalid": 0,   "Responses": 1,   "Modified": 0,   "IncomingBytes": 227,   "OutcomingBytes": 392,   "OutcomingFiles": 0,   "ServiceCalls": 1,   "ProcessTime": "720us"  }
+20180223 09593504  ! warn  WebSocket support are disabled because WSServer.host = '' in config
+20180223 09593504  !  +    ubServer.TubServer(06200280).008863DB 
+20180223 09593504  !  +    	Init app
+20180223 09593504  ! srvr  		FTS is disabled
+20180223 09593504  ! info  		Check blob store "avatars" folder "C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\avatars\": folder exists
+20180223 09593504  !  -    	00.000.283
+20180223 09593504  !  +    	Folder C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\node_modules\@unitybase\ub\ modified
+20180223 09593504  !  +    		ubCommonClasses.TubThreadSafeCache(04C0CB30).removeStartsWith
+20180223 09593504  !  -    		00.000.002
+20180223 09593504  !  -    	00.000.012
+20180223 09593504  !  +    	Folder C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\ modified
+20180223 09593504  ! debug 		refresh UB_STATIC.staticFoldersModifyDate in globalCache (static directory C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\ changed)
+20180223 09593504  !  +    		ubCommonClasses.TubThreadSafeCache(04C0CB30).removeStartsWith
+20180223 09593504  !  -    		00.000.001
+20180223 09593504  !  -    	00.000.010
+20180223 09593504  !  +    	ubApp.TubApp(04B73EE0).init
+20180223 09593504  ! srvr  		Mime converters are disabled
+20180223 09593504  !  -    	00.000.003
+20180223 09593504  ! srvr  	Enable zip compresison
+20180223 09593504  ! srvr  	Send initialization request to http://localhost:888/init
+20180223 09593504  #  +    InitializationRequest
+20180223 09593504  #  +    	init
+20180223 09593504  # srvr  		Start application intialization...
+20180223 09593504  # info  		Loading domain...
+20180223 09593504  # info  		Loading model "UB" from "C:\Users\dovorob\Desktop\Sedneva\helloWorldProject\helloWorldUB\node_modules\@unitybase\ub\"
+20180223 09593504  # srvr  		The domain loaded successfully with 0 entities
+20180223 09593504  # debug 		Create new JavaScript Engine for thread 9028
+20180223 09593519  #  +    		008C234A 
+20180223 09593519  # warn  			All API method are allowed for Everyone, because "uba_els" entity not found in domain
+20180223 09593519  # warn  			ELS: rule "ALLOW_ALL_NO_ELS_ENTITY" does not match any method. Ignored
+20180223 09593519  #  -    		00.000.772
+20180223 09593519  # warn  		Method changePassword not found in application but set in allowedAppMethods for user
+20180223 09593519  # auth  		New session admin/84416848 created at 127.0.0.1/-216172780503171069 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180223 09593519  # auth  		New session anonymous/84416851 created at 127.0.0.1/-216172780503171069 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180223 09593519  #  -    	00.252.658
+20180223 09593519  #  -    00.252.669
+20180223 09593519  ! srvr  	ubServer.TubServer(06200280) {"THttpApiServer(04B3AA80)":{"Cloned":false,"RegisteredUrl":"http://+:888/","HTTPQueueLength":1000,"MaxBandwidth":-1,"MaxConnections":-1,"APIVersion":"HTTP API 2.0","ServerName":"UnityBase","ProcessName":""}} initialized
+20180223 09593519  !  -    00.256.336
+20180223 09593519  #  +    runSQL?CONNECTION=main
+20180223 09593519  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593519  # http  	create table seq_ubmain (client_num INTEGER) /* generateID = clientNum+currentTimeUnixEpoch*100 + 1...99 */
+20180223 09593519  # call  	endpoint runSQL
+20180223 09593519  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593519  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593519  #  +    			00856EC2 
+20180223 09593537  #  -    			00.273.607
+20180223 09593537  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25DD0) PRAGMA foreign_keys = ON
+20180223 09593537  # DB    			StartTransaction for connection "main"
+20180223 09593537  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) create table seq_ubmain (client_num INTEGER) /* generateID = clientNum+currentTimeUnixEpoch*100 + 1...99 */
+20180223 09593537  #  -    		00.275.186
+20180223 09593537  # cust2 		Slow query: 275.18ms. See previous 
+20180223 09593537  #  -    	00.275.202
+20180223 09593537  # DB    	Commit connection "main" in 878us
+20180223 09593537  # http  	127.0.0.1 <- 200
+20180223 09593537  #  -    00.276.545
+20180223 09593537  #  +    runSQL?CONNECTION=main
+20180223 09593537  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593537  # http  	insert into seq_ubmain (client_num) values(30000000000)
+20180223 09593537  # call  	endpoint runSQL
+20180223 09593537  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593537  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593537  # DB    			StartTransaction for connection "main"
+20180223 09593537  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into seq_ubmain (client_num) values(30000000000)
+20180223 09593537  #  -    		00.000.085
+20180223 09593537  #  -    	00.000.091
+20180223 09593537  # DB    	Commit connection "main" in 45us
+20180223 09593537  # http  	127.0.0.1 <- 200
+20180223 09593537  #  -    00.000.348
+20180223 09593537  #  +    runSQL?CONNECTION=main
+20180223 09593537  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593537  # http  	create table uba_user (   ID BIGINT not null PRIMARY KEY,   name VARCHAR(128) not null,   description VARCHAR(255) null,   uPasswordHashHexa VARCHAR(64) null,   disabled SMALLINT default 0 not null,   isPending SMALLINT default 0 not null,   trustedIP VARCHAR(255) null,   uData VARCHAR(2000) null,   lastPasswordChangeDate DATETIME default (strftime('%Y-%m-%dT%H:%M:%SZ', 'now')) not null,   mi_owner bigint NOT NULL, -- Row owner      mi_createdate DATETIME NOT NULL, -- Creation date      mi_createuser bigint NOT NULL, -- User who create row      mi_modifydate DATETIME NOT NULL, -- Modification date      mi_modifyuser bigint NOT NULL, -- User who modify row      FOREIGN KEY(mi_owner) REFERENCES uba_user,      FOREIGN KEY(mi_createuser) REFERENCES uba_user,      FOREIGN KEY(mi_modifyuser) REFERENCES uba_user  );  
+20180223 09593537  # call  	endpoint runSQL
+20180223 09593537  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593537  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593537  # DB    			StartTransaction for connection "main"
+20180223 09593537  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) create table uba_user (   ID BIGINT not null PRIMARY KEY,   name VARCHAR(128) not null,   description VARCHAR(255) null,   uPasswordHashHexa VARCHAR(64) null,   disabled SMALLINT default 0 not null,   isPending SMALLINT default 0 not null,   trustedIP VARCHAR(255) null,   uData VARCHAR(2000) null,   lastPasswordChangeDate DATETIME default (strftime('%Y-%m-%dT%H:%M:%SZ', 'now')) not null,   mi_owner bigint NOT NULL, -- Row owner      mi_createdate DATETIME NOT NULL, -- Creation date      mi_createuser bigint... (truncated) length=822
+20180223 09593537  #  -    		00.000.286
+20180223 09593537  #  -    	00.000.292
+20180223 09593537  # DB    	Commit connection "main" in 152us
+20180223 09593537  # http  	127.0.0.1 <- 200
+20180223 09593537  #  -    00.000.618
+20180223 09593537  #  +    runSQL?CONNECTION=main
+20180223 09593537  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593537  # http  	create table uba_role (   ID BIGINT not null PRIMARY KEY,   name VARCHAR(128) not null, -- Role   description VARCHAR(256) not null, -- Description   sessionTimeout INTEGER default 30 not null, -- Time after which the session is deleted by timeout (in minutes)   allowedAppMethods VARCHAR(2000) null,  -- Which application level methods are allowed (comma separated list)      mi_owner bigint NOT NULL, -- Row owner      mi_createdate DATETIME NOT NULL, -- Creation date      mi_createuser bigint NOT NULL, -- User who create row      mi_modifydate DATETIME NOT NULL, -- Modification date      mi_modifyuser bigint NOT NULL, -- User who modify row      FOREIGN KEY(mi_owner) REFERENCES uba_user,      FOREIGN KEY(mi_createuser) REFERENCES uba_user,      FOREIGN KEY(mi_modifyuser) REFERENCES uba_user  );  
+20180223 09593537  # call  	endpoint runSQL
+20180223 09593537  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593537  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593537  # DB    			StartTransaction for connection "main"
+20180223 09593537  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) create table uba_role (   ID BIGINT not null PRIMARY KEY,   name VARCHAR(128) not null, -- Role   description VARCHAR(256) not null, -- Description   sessionTimeout INTEGER default 30 not null, -- Time after which the session is deleted by timeout (in minutes)   allowedAppMethods VARCHAR(2000) null,  -- Which application level methods are allowed (comma separated list)      mi_owner bigint NOT NULL, -- Row owner      mi_createdate DATETIME NOT NULL, -- Creation date      mi_createuser bigint NOT NULL, -- Us... (truncated) length=806
+20180223 09593537  #  -    		00.000.280
+20180223 09593537  #  -    	00.000.287
+20180223 09593537  # DB    	Commit connection "main" in 143us
+20180223 09593537  # http  	127.0.0.1 <- 200
+20180223 09593537  #  -    00.000.622
+20180223 09593538  #  +    runSQL?CONNECTION=main
+20180223 09593538  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593538  # http  	create table uba_els (   ID BIGINT not null PRIMARY KEY,   code VARCHAR(32) null, -- Code for ELS rule   description VARCHAR(255) not null, -- Rule description   disabled SMALLINT default 0 not null, -- Rule is disabled   entityMask VARCHAR(128) not null, -- Entity mask   methodMask VARCHAR(128) not null, -- Method mask   ruleType VARCHAR(32) default 'A' not null, -- Is this ALLOW rule(A) or DENY rule(D) or Complements(C) rule   ruleRole BIGINT not null, -- Role for which the rule applies      mi_owner bigint NOT NULL, -- Row owner      mi_createdate DATETIME NOT NULL, -- Creation date      mi_createuser bigint NOT NULL, -- User who create row      mi_modifydate DATETIME NOT NULL, -- Modification date      mi_modifyuser bigint NOT NULL, -- User who modify row      CONSTRAINT FK_ELS_MI_OWNER_REF_USR FOREIGN KEY(mi_owner) REFERENCES uba_user,      CONSTRAINT FK_ELS_MI_CREATEUSER_REF_USR FOREIGN KEY(mi_createuser) REFERENCES uba_user,      CONSTRAINT FK_ELS_MI_MODIFYUSER_REF_USR FOREIGN KEY(mi_modifyuser) REFERE... (truncated) length=1043
+20180223 09593538  # call  	endpoint runSQL
+20180223 09593538  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593538  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593538  # DB    			StartTransaction for connection "main"
+20180223 09593538  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) create table uba_els (   ID BIGINT not null PRIMARY KEY,   code VARCHAR(32) null, -- Code for ELS rule   description VARCHAR(255) not null, -- Rule description   disabled SMALLINT default 0 not null, -- Rule is disabled   entityMask VARCHAR(128) not null, -- Entity mask   methodMask VARCHAR(128) not null, -- Method mask   ruleType VARCHAR(32) default 'A' not null, -- Is this ALLOW rule(A) or DENY rule(D) or Complements(C) rule   ruleRole BIGINT not null, -- Role for which the rule applies      mi_owner bigi... (truncated) length=1043
+20180223 09593538  #  -    		00.000.262
+20180223 09593538  #  -    	00.000.268
+20180223 09593538  # DB    	Commit connection "main" in 87us
+20180223 09593538  # http  	127.0.0.1 <- 200
+20180223 09593538  #  -    00.000.784
+20180223 09593538  #  +    runSQL?CONNECTION=main
+20180223 09593538  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593538  # http  	create table uba_subject (   ID BIGINT not null PRIMARY KEY,   code VARCHAR(128) not null, -- Code   name VARCHAR(128) not null, -- Login   sType VARCHAR(1) not null, -- Subject type   mi_unityEntity VARCHAR(64) not null  );  
+20180223 09593538  # call  	endpoint runSQL
+20180223 09593538  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593538  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593538  # DB    			StartTransaction for connection "main"
+20180223 09593538  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) create table uba_subject (   ID BIGINT not null PRIMARY KEY,   code VARCHAR(128) not null, -- Code   name VARCHAR(128) not null, -- Login   sType VARCHAR(1) not null, -- Subject type   mi_unityEntity VARCHAR(64) not null  );  
+20180223 09593538  #  -    		00.000.204
+20180223 09593538  #  -    	00.000.211
+20180223 09593538  # DB    	Commit connection "main" in 82us
+20180223 09593538  # http  	127.0.0.1 <- 200
+20180223 09593538  #  -    00.000.550
+20180223 09593538  #  +    runSQL?CONNECTION=main
+20180223 09593538  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593538  # http  	create table uba_userrole (   ID BIGINT not null PRIMARY KEY,   userID BIGINT not null, -- User   roleID BIGINT not null, -- Role      mi_owner bigint NOT NULL, -- Row owner      mi_createdate DATETIME NOT NULL, -- Creation date      mi_createuser bigint NOT NULL, -- User who create row      mi_modifydate DATETIME NOT NULL, -- Modification date      mi_modifyuser bigint NOT NULL, -- User who modify row      FOREIGN KEY(userID) REFERENCES uba_user,      FOREIGN KEY(roleID) REFERENCES uba_role,      FOREIGN KEY(mi_owner) REFERENCES uba_user,      FOREIGN KEY(mi_createuser) REFERENCES uba_user,      FOREIGN KEY(mi_modifyuser) REFERENCES uba_user  );  
+20180223 09593538  # call  	endpoint runSQL
+20180223 09593538  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593538  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593538  # DB    			StartTransaction for connection "main"
+20180223 09593538  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) create table uba_userrole (   ID BIGINT not null PRIMARY KEY,   userID BIGINT not null, -- User   roleID BIGINT not null, -- Role      mi_owner bigint NOT NULL, -- Row owner      mi_createdate DATETIME NOT NULL, -- Creation date      mi_createuser bigint NOT NULL, -- User who create row      mi_modifydate DATETIME NOT NULL, -- Modification date      mi_modifyuser bigint NOT NULL, -- User who modify row      FOREIGN KEY(userID) REFERENCES uba_user,      FOREIGN KEY(roleID) REFERENCES uba_role,      FOREIGN K... (truncated) length=656
+20180223 09593538  #  -    		00.000.250
+20180223 09593538  #  -    	00.000.256
+20180223 09593538  # DB    	Commit connection "main" in 194us
+20180223 09593538  # http  	127.0.0.1 <- 200
+20180223 09593538  #  -    00.000.607
+20180223 09593538  #  +    runSQL?CONNECTION=main
+20180223 09593538  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593538  # http  	create table uba_als (   ID BIGINT not null PRIMARY KEY,   entity VARCHAR(64) not null, -- Entity   attribute VARCHAR(32) not null, -- Attribute   state VARCHAR(32) not null, -- State code   roleName VARCHAR(32) not null, -- Role name   actions INTEGER not null -- Allow actions  );  
+20180223 09593538  # call  	endpoint runSQL
+20180223 09593538  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593538  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593538  # DB    			StartTransaction for connection "main"
+20180223 09593538  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) create table uba_als (   ID BIGINT not null PRIMARY KEY,   entity VARCHAR(64) not null, -- Entity   attribute VARCHAR(32) not null, -- Attribute   state VARCHAR(32) not null, -- State code   roleName VARCHAR(32) not null, -- Role name   actions INTEGER not null -- Allow actions  );  
+20180223 09593538  #  -    		00.000.207
+20180223 09593538  #  -    	00.000.212
+20180223 09593538  # DB    	Commit connection "main" in 104us
+20180223 09593538  # http  	127.0.0.1 <- 200
+20180223 09593538  #  -    00.000.460
+20180223 09593538  #  +    runSQL?CONNECTION=main
+20180223 09593538  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593538  # http  	create table uba_audit (   ID BIGINT not null PRIMARY KEY,   entity VARCHAR(32) not null, -- Entity code   entityinfo_id BIGINT not null, -- Instance ID   actionType VARCHAR(32) not null, -- Action   actionUser VARCHAR(128) not null, -- User, who perform the action   actionTime DATETIME not null, -- Action time   remoteIP VARCHAR(40) null, -- Caller remote IP address. NULL in case of localhost   targetUser VARCHAR(128) null, -- The user name for which the data has changed   targetRole VARCHAR(128) null, -- The role name for which the data has changed   fromValue TEXT null, -- Old values   toValue TEXT null -- New values  );  
+20180223 09593538  # call  	endpoint runSQL
+20180223 09593538  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593538  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593538  # DB    			StartTransaction for connection "main"
+20180223 09593538  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) create table uba_audit (   ID BIGINT not null PRIMARY KEY,   entity VARCHAR(32) not null, -- Entity code   entityinfo_id BIGINT not null, -- Instance ID   actionType VARCHAR(32) not null, -- Action   actionUser VARCHAR(128) not null, -- User, who perform the action   actionTime DATETIME not null, -- Action time   remoteIP VARCHAR(40) null, -- Caller remote IP address. NULL in case of localhost   targetUser VARCHAR(128) null, -- The user name for which the data has changed   targetRole VARCHAR(128) null, -- ... (truncated) length=633
+20180223 09593538  #  -    		00.000.238
+20180223 09593538  #  -    	00.000.270
+20180223 09593538  # DB    	Commit connection "main" in 88us
+20180223 09593538  # http  	127.0.0.1 <- 200
+20180223 09593538  #  -    00.000.516
+20180223 09593538  #  +    runSQL?CONNECTION=main
+20180223 09593538  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593538  # http  	create table ubs_settings (   ID BIGINT not null PRIMARY KEY,   settingKey VARCHAR(150) not null, -- Setting key. To prevent key conflicts key name must start with a model code where key is used. `ubs.numcounter.autoRegWithDeletedNumber`   name VARCHAR(150) not null, -- Setting name   description VARCHAR(1024) null, -- Description   type VARCHAR(32) null, -- Value type   settingValue VARCHAR(2000) null, -- Value   defaultValue VARCHAR(150) null, -- Default value (setted by developer)      mi_owner bigint NOT NULL, -- Row owner      mi_createdate DATETIME NOT NULL, -- Creation date      mi_createuser bigint NOT NULL, -- User who create row      mi_modifydate DATETIME NOT NULL, -- Modification date      mi_modifyuser bigint NOT NULL, -- User who modify row      FOREIGN KEY(mi_owner) REFERENCES uba_user,      FOREIGN KEY(mi_createuser) REFERENCES uba_user,      FOREIGN KEY(mi_modifyuser) REFERENCES uba_user  );
+20180223 09593538  # call  	endpoint runSQL
+20180223 09593538  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593538  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593538  # DB    			StartTransaction for connection "main"
+20180223 09593538  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) create table ubs_settings (   ID BIGINT not null PRIMARY KEY,   settingKey VARCHAR(150) not null, -- Setting key. To prevent key conflicts key name must start with a model code where key is used. `ubs.numcounter.autoRegWithDeletedNumber`   name VARCHAR(150) not null, -- Setting name   description VARCHAR(1024) null, -- Description   type VARCHAR(32) null, -- Value type   settingValue VARCHAR(2000) null, -- Value   defaultValue VARCHAR(150) null, -- Default value (setted by developer)      mi_owner bigint NO... (truncated) length=920
+20180223 09593538  #  -    		00.000.247
+20180223 09593538  #  -    	00.000.253
+20180223 09593538  # DB    	Commit connection "main" in 92us
+20180223 09593538  # http  	127.0.0.1 <- 200
+20180223 09593538  #  -    00.000.534
+20180223 09593538  #  +    runSQL?CONNECTION=main
+20180223 09593538  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593538  # http  	PRAGMA foreign_keys = OFF
+20180223 09593538  # call  	endpoint runSQL
+20180223 09593538  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593538  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593538  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) PRAGMA foreign_keys = OFF
+20180223 09593538  #  -    		00.000.024
+20180223 09593538  #  -    	00.000.037
+20180223 09593538  # http  	127.0.0.1 <- 200
+20180223 09593538  #  -    00.000.184
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_subject (ID,code,name,sType,mi_unityentity) values(0, 'Everyone', 'Everyone build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_subject (ID,code,name,sType,mi_unityentity) values(0, 'Everyone', 'Everyone build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  #  -    		00.000.100
+20180223 09593539  #  -    	00.000.105
+20180223 09593539  # DB    	Commit connection "main" in 62us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.368
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(0,'Everyone','Everyone build-in role',1000,'auth,timeStamp,statics,getAppInfo,models,getDomainInfo,ubql,rest',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(0,'Everyone','Everyone build-in role',1000,'auth,timeStamp,statics,getAppInfo,models,getDomainInfo,ubql,rest',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  #  -    		00.000.098
+20180223 09593539  #  -    	00.000.103
+20180223 09593539  # DB    	Commit connection "main" in 65us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.306
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_subject (ID,code,name,sType,mi_unityentity) values(1, 'Admin', 'Admin build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_subject (ID,code,name,sType,mi_unityentity) values(1, 'Admin', 'Admin build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  #  -    		00.000.079
+20180223 09593539  #  -    	00.000.084
+20180223 09593539  # DB    	Commit connection "main" in 61us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.267
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(1,'Admin','Admin build-in role',10,'*',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(1,'Admin','Admin build-in role',10,'*',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  #  -    		00.000.093
+20180223 09593539  #  -    	00.000.098
+20180223 09593539  # DB    	Commit connection "main" in 63us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.312
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_subject (ID,code,name,sType,mi_unityentity) values(2, 'Anonymous', 'Anonymous build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_subject (ID,code,name,sType,mi_unityentity) values(2, 'Anonymous', 'Anonymous build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  #  -    		00.000.080
+20180223 09593539  #  -    	00.000.085
+20180223 09593539  # DB    	Commit connection "main" in 64us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.282
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(2,'Anonymous','Anonymous build-in role',1000,'',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(2,'Anonymous','Anonymous build-in role',1000,'',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  #  -    		00.000.085
+20180223 09593539  #  -    	00.000.091
+20180223 09593539  # DB    	Commit connection "main" in 58us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.275
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_subject (ID,code,name,sType,mi_unityentity) values(3, 'User', 'User build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_subject (ID,code,name,sType,mi_unityentity) values(3, 'User', 'User build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  #  -    		00.000.076
+20180223 09593539  #  -    	00.000.080
+20180223 09593539  # DB    	Commit connection "main" in 59us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.260
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(3,'User','User build-in role',30,'logout,changePassword,setDocument,getDocument',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(3,'User','User build-in role',30,'logout,changePassword,setDocument,getDocument',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  #  -    		00.000.173
+20180223 09593539  #  -    	00.000.178
+20180223 09593539  # DB    	Commit connection "main" in 94us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.394
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_subject (ID,code,name,sType,mi_unityentity) values(4, 'Supervisor', 'Supervisor build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_subject (ID,code,name,sType,mi_unityentity) values(4, 'Supervisor', 'Supervisor build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  #  -    		00.000.078
+20180223 09593539  #  -    	00.000.083
+20180223 09593539  # DB    	Commit connection "main" in 59us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.272
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(4,'Supervisor','Supervisor build-in role',10,'',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(4,'Supervisor','Supervisor build-in role',10,'',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  #  -    		00.000.086
+20180223 09593539  #  -    	00.000.091
+20180223 09593539  # DB    	Commit connection "main" in 58us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.272
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_subject (ID,code,name,sType,mi_unityentity) values(5, 'Developer', 'Developer build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_subject (ID,code,name,sType,mi_unityentity) values(5, 'Developer', 'Developer build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593539  #  -    		00.000.074
+20180223 09593539  #  -    	00.000.079
+20180223 09593539  # DB    	Commit connection "main" in 58us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.256
+20180223 09593539  #  +    runSQL?CONNECTION=main
+20180223 09593539  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593539  # http  	insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(5,'Developer','Developer build-in role',10,'',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  # call  	endpoint runSQL
+20180223 09593539  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593539  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593539  # DB    			StartTransaction for connection "main"
+20180223 09593539  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(5,'Developer','Developer build-in role',10,'',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593539  #  -    		00.000.085
+20180223 09593539  #  -    	00.000.090
+20180223 09593539  # DB    	Commit connection "main" in 58us
+20180223 09593539  # http  	127.0.0.1 <- 200
+20180223 09593539  #  -    00.000.300
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	insert into uba_subject (ID,code,name,sType,mi_unityentity) values(6, 'Monitor', 'Monitor build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # DB    			StartTransaction for connection "main"
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_subject (ID,code,name,sType,mi_unityentity) values(6, 'Monitor', 'Monitor build-in role', 'R', 'UBA_SUBJECT')
+20180223 09593540  #  -    		00.000.120
+20180223 09593540  #  -    	00.000.125
+20180223 09593540  # DB    	Commit connection "main" in 71us
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.375
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(6,'Monitor','Monitor build-in role',100,'stat',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # DB    			StartTransaction for connection "main"
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_role (ID,name,description,sessionTimeout,allowedAppMethods,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values(6,'Monitor','Monitor build-in role',100,'stat',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  #  -    		00.000.116
+20180223 09593540  #  -    	00.000.122
+20180223 09593540  # DB    	Commit connection "main" in 72us
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.369
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	insert into uba_subject (ID,code,name,sType,mi_unityentity) values(10, 'admin', 'admin', 'U', 'UBA_USER')
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # DB    			StartTransaction for connection "main"
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_subject (ID,code,name,sType,mi_unityentity) values(10, 'admin', 'admin', 'U', 'UBA_USER')
+20180223 09593540  #  -    		00.000.112
+20180223 09593540  #  -    	00.000.117
+20180223 09593540  # DB    	Commit connection "main" in 78us
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.361
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	insert into uba_user (ID, name, description, upasswordhashhexa, disabled, udata,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values (10, 'admin', 'admin', '2bb7998496899acdd8137fad3a44faf96a84a03d7f230ce42e97cd17c7ae429e', 0, '',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # DB    			StartTransaction for connection "main"
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_user (ID, name, description, upasswordhashhexa, disabled, udata,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values (10, 'admin', 'admin', '2bb7998496899acdd8137fad3a44faf96a84a03d7f230ce42e97cd17c7ae429e', 0, '',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  #  -    		00.000.130
+20180223 09593540  #  -    	00.000.137
+20180223 09593540  # DB    	Commit connection "main" in 184us
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.522
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	insert into uba_subject (ID,code,name,sType,mi_unityentity) values(20, 'anonymous', 'anonymous', 'U', 'UBA_USER')
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # DB    			StartTransaction for connection "main"
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_subject (ID,code,name,sType,mi_unityentity) values(20, 'anonymous', 'anonymous', 'U', 'UBA_USER')
+20180223 09593540  #  -    		00.000.224
+20180223 09593540  #  -    	00.000.235
+20180223 09593540  # DB    	Commit connection "main" in 136us
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.726
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	insert into uba_user (ID, name, description, upasswordhashhexa, disabled, udata,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values (20, 'anonymous', 'anonymous', '-', 0, '',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # DB    			StartTransaction for connection "main"
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_user (ID, name, description, upasswordhashhexa, disabled, udata,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)          values (20, 'anonymous', 'anonymous', '-', 0, '',10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  #  -    		00.000.126
+20180223 09593540  #  -    	00.000.132
+20180223 09593540  # DB    	Commit connection "main" in 66us
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.359
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	insert into uba_els (ID,code,description,disabled,entityMask,methodMask,ruleType,ruleRole,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)        VALUES (200, 'UBA_ADMIN_ALL', 'Admins - enable all',0,'*','*','A',1,10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # DB    			StartTransaction for connection "main"
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_els (ID,code,description,disabled,entityMask,methodMask,ruleType,ruleRole,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser)        VALUES (200, 'UBA_ADMIN_ALL', 'Admins - enable all',0,'*','*','A',1,10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  #  -    		00.000.115
+20180223 09593540  #  -    	00.000.121
+20180223 09593540  # DB    	Commit connection "main" in 51us
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.298
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	insert into uba_userrole (ID,userID, roleID,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser) values(800,10,1,10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # DB    			StartTransaction for connection "main"
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_userrole (ID,userID, roleID,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser) values(800,10,1,10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  #  -    		00.000.078
+20180223 09593540  #  -    	00.000.084
+20180223 09593540  # DB    	Commit connection "main" in 57us
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.265
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	insert into uba_userrole (ID,userID, roleID,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser) values(900,20,2,10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # DB    			StartTransaction for connection "main"
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) insert into uba_userrole (ID,userID, roleID,mi_owner,mi_createdate,mi_createuser,mi_modifydate,mi_modifyuser) values(900,20,2,10,'2018-02-23T09:59:35Z',10,'2018-02-23T09:59:35Z',10)
+20180223 09593540  #  -    		00.000.075
+20180223 09593540  #  -    	00.000.080
+20180223 09593540  # DB    	Commit connection "main" in 58us
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.266
+20180223 09593540  #  +    runSQL?CONNECTION=main
+20180223 09593540  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180223 09593540  # http  	PRAGMA foreign_keys = ON
+20180223 09593540  # call  	endpoint runSQL
+20180223 09593540  #  +    	ubApp.TubApp(04B73EE0).DBExecute
+20180223 09593540  #  +    		ubApp.TubApp(04B73EE0).TubApp.InternalDBExecute
+20180223 09593540  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(04C25D70) PRAGMA foreign_keys = ON
+20180223 09593540  #  -    		00.000.016
+20180223 09593540  #  -    	00.000.026
+20180223 09593540  # http  	127.0.0.1 <- 200
+20180223 09593540  #  -    00.000.132
+20180223 09593543  ! info  ubApp.TubApp(04B73EE0) {   "ClientsCurrent": 0,   "ClientsMax": 0,   "Invalid": 0,   "Responses": 33,   "Modified": 31,   "IncomingBytes": 19954,   "OutcomingBytes": 2017,   "OutcomingFiles": 0,   "ServiceCalls": 33,   "ProcessTime": "289.28ms"  }
